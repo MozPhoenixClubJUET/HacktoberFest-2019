@@ -1,2 +1,2 @@
 # hobby
-reading novels
+reading comics
