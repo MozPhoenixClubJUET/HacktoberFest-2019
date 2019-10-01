@@ -1,0 +1,9 @@
+remedation
+upgrade mem to version 4.0.0 or later.for example
+"dependecies":{
+"mem:"">=4.0.0"
+}
+or.......
+"himankdependencies":{
+"mem":>=4.0.0"
+}
