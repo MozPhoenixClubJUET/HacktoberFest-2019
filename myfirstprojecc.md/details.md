@@ -1,5 +1,3 @@
-#include<stdio.h>
-int main(void)
-{
-printf("myfirstproject");
-}
+name :karunesh
+enrollment :191b139
+branch :cse
