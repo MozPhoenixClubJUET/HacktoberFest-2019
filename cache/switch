@@ -1,0 +1,23 @@
+#include <stdio.h>
+int main()
+{
+     char ch='b';
+     switch (ch)
+     {
+         case 'd':
+            printf("CaseD ");
+            break;
+         case 'b':
+            printf("CaseB");
+            break;
+         case 'c':
+            printf("CaseC");
+            break;
+         case 'z':
+            printf("CaseZ ");
+            break;
+         default:
+            printf("Default ");
+    }
+    return 0;
+}
